@@ -126,8 +126,7 @@ class InventoryManager:
                 return prod
         return None
 
-#import blocks to execute
-
+# Main Function 
 
 def main():
     inv_manager = InventoryManager()
